@@ -1,0 +1,17 @@
+.fenye {
+	position: fixed;
+	top: 40%;
+	right: 0px;
+	margin-top: -55px;
+}
+.fenye a {
+	display: block;
+	width: 20px;
+	height: 60px;
+	margin-bottom: 10px;
+	background: #29D;
+	color: #fff;
+	text-decoration: none;
+	text-align: center;
+	border-radius: 5px;
+}
